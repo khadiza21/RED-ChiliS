@@ -1,8 +1,8 @@
 # RED CHILI
 
-## Live Site Link : https://hungry-lovelace-84b23c.netlify.app/
+## Live Site Link : https://red-chilis.netlify.app/ 
 
-### Code Site Link : https://github.com/khadiza21/KITTY-Laptop-22
+### Code Site Link : https://github.com/khadiza21/RED-ChiliS
 
 #### Languages:
 
